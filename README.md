@@ -20,11 +20,13 @@ Along with this, a few additional features were added in. By researching differe
 - additional information on how much the bill is if it is split amongst 2,3,4, or 5 people 
 - a keyboard that is always visible so that the user can efficiently enter in information at all times 
 - a visual cue of tip percentage, changing the app background to red if tip percentage ranges from 0-10%, yellow if tip percentage ranges from 10-20%, and green if tip percentage ranges from 20-100%. 
+- an app icon and loading screen 
 
+Changes occur whenever the bill/tax amount or tip percentages are changed in order to provide information as quickly as possible. 
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a video showing the basic functionality of the app: 
 
 <p align="center">
   <img src="https://github.com/bew030/tip-calculator/blob/master/appdemo.gif" />
